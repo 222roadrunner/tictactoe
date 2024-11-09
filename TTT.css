@@ -1,0 +1,16 @@
+#board{
+    background-color: antiquewhite;
+    border: solid black 2px;
+    width: 450px;
+}
+
+.box {
+    height: 150px;
+    border: solid gray 1px;
+    text-align: center;
+    font-size: 100px;
+}
+
+#winner-alert{
+    margin: 1rem;
+}
